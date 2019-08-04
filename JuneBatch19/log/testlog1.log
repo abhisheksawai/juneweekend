@@ -1,0 +1,35 @@
+2019-07-27 13:06:49,920 [main] INFO log demo - browser launch karto
+2019-07-27 13:06:54,319 [main] INFO log demo - browser launch zal
+2019-07-27 13:06:55,203 [main] INFO log demo - element la click kelay
+2019-07-27 13:08:03,544 [main] INFO log demo - browser launch karto
+2019-07-27 13:08:07,778 [main] INFO log demo - browser launch zal
+2019-07-27 13:08:08,018 [main] INFO log demo - element la click kelay
+2019-07-27 13:08:08,052 [main] INFO log demo - element la click kelay parat ekda
+2019-07-27 13:09:05,890 [main] INFO log demo change - browser launch karto
+2019-07-27 13:09:09,702 [main] INFO log demo change - browser launch zal
+2019-07-27 13:09:09,999 [main] INFO log demo change - element la click kelay
+2019-07-27 13:09:10,045 [main] INFO log demo change - element la click kelay parat ekda
+2019-07-27 13:09:10,047 [main] INFO log demo change - ===============
+2019-07-30 22:34:09,466 [main] INFO log mobile buy change - browser launch karto
+2019-07-30 22:34:19,859 [main] INFO log mobile buy change - browser launch zal
+2019-07-30 22:34:20,365 [main] INFO log mobile buy change - element la click kelay
+2019-07-30 22:34:20,446 [main] INFO log mobile buy change - element la click kelay parat ekda
+2019-07-30 22:34:20,447 [main] INFO log mobile buy change - ===============
+2019-07-30 22:35:55,198 [main] INFO log mobile buy change - browser launch kiya
+2019-07-30 22:36:03,676 [main] INFO log mobile buy change - browser launch ho gaya
+2019-07-30 22:36:04,415 [main] INFO log mobile buy change - element par click kiya
+2019-07-30 22:36:04,498 [main] INFO log mobile buy change - element par click karte hai fir se
+2019-07-30 22:36:04,499 [main] INFO log mobile buy change - ===============
+2019-07-30 22:37:45,870 [main] INFO according to tets case - browser launch kiya
+2019-07-30 22:37:51,518 [main] INFO according to tets case - browser launch ho gaya
+2019-07-30 22:37:52,070 [main] INFO according to tets case - element par click kiya
+2019-07-30 22:37:52,160 [main] INFO according to tets case - element par click karte hai fir se
+2019-07-30 22:37:52,161 [main] INFO according to tets case - ===============
+2019-07-30 22:42:05,272 [main] INFO according to tets case - browser launch kiya
+2019-07-30 22:42:17,391 [main] INFO according to tets case - browser launch ho gaya
+2019-07-30 22:42:57,408 [main] INFO according to tets case - browser launch kiya
+2019-07-30 22:43:02,882 [main] INFO according to tets case - browser launch ho gaya
+2019-07-30 22:43:03,468 [main] INFO according to tets case - element par click kiya
+2019-07-30 22:43:03,559 [main] INFO according to tets case - element par click karte hai fir se
+2019-07-30 22:43:03,560 [main] INFO according to tets case - ===============
+2019-07-30 22:43:03,561 [main] ERROR according to tets case - we are giving error msg

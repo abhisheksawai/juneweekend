@@ -1,0 +1,41 @@
+2019-07-27 13:06:49,920 - log demo -INFO - browser launch karto
+2019-07-27 13:06:54,319 - log demo -INFO - browser launch zal
+2019-07-27 13:06:55,203 - log demo -INFO - element la click kelay
+2019-07-27 13:08:03,544 - log demo -INFO - browser launch karto
+2019-07-27 13:08:07,778 - log demo -INFO - browser launch zal
+2019-07-27 13:08:08,018 - log demo -INFO - element la click kelay
+2019-07-27 13:08:08,052 - log demo -INFO - element la click kelay parat ekda
+2019-07-27 13:09:05,890 - log demo change -INFO - browser launch karto
+2019-07-27 13:09:09,702 - log demo change -INFO - browser launch zal
+2019-07-27 13:09:09,999 - log demo change -INFO - element la click kelay
+2019-07-27 13:09:10,045 - log demo change -INFO - element la click kelay parat ekda
+2019-07-27 13:09:10,047 - log demo change -INFO - ===============
+2019-07-30 22:34:09,466 - log mobile buy change -INFO - browser launch karto
+2019-07-30 22:34:19,859 - log mobile buy change -INFO - browser launch zal
+2019-07-30 22:34:20,365 - log mobile buy change -INFO - element la click kelay
+2019-07-30 22:34:20,446 - log mobile buy change -INFO - element la click kelay parat ekda
+2019-07-30 22:34:20,447 - log mobile buy change -INFO - ===============
+2019-07-30 22:35:55,198 - log mobile buy change -INFO - browser launch kiya
+2019-07-30 22:36:03,676 - log mobile buy change -INFO - browser launch ho gaya
+2019-07-30 22:36:04,415 - log mobile buy change -INFO - element par click kiya
+2019-07-30 22:36:04,498 - log mobile buy change -INFO - element par click karte hai fir se
+2019-07-30 22:36:04,499 - log mobile buy change -INFO - ===============
+2019-07-30 22:37:45,870 - according to tets case -INFO - browser launch kiya
+2019-07-30 22:37:51,518 - according to tets case -INFO - browser launch ho gaya
+2019-07-30 22:37:52,070 - according to tets case -INFO - element par click kiya
+2019-07-30 22:37:52,160 - according to tets case -INFO - element par click karte hai fir se
+2019-07-30 22:37:52,161 - according to tets case -INFO - ===============
+2019-07-30 22:42:05,272 - according to tets case -INFO - browser launch kiya
+2019-07-30 22:42:17,391 - according to tets case -INFO - browser launch ho gaya
+2019-07-30 22:42:57,408 - according to tets case -INFO - browser launch kiya
+2019-07-30 22:43:02,882 - according to tets case -INFO - browser launch ho gaya
+2019-07-30 22:43:03,468 - according to tets case -INFO - element par click kiya
+2019-07-30 22:43:03,559 - according to tets case -INFO - element par click karte hai fir se
+2019-07-30 22:43:03,560 - according to tets case -INFO - ===============
+2019-07-30 22:43:03,561 - according to tets case -ERROR - we are giving error msg
+2019-07-30 22:45:42,062 - according to tets case -INFO - browser launch kiya
+2019-07-30 22:45:50,060 - according to tets case -INFO - browser launch ho gaya
+2019-07-30 22:45:50,684 - according to tets case -INFO - element par click kiya
+2019-07-30 22:45:50,883 - according to tets case -INFO - element par click karte hai fir se
+2019-07-30 22:45:50,884 - according to tets case -INFO - ===============
+2019-07-30 22:45:50,884 - according to tets case -ERROR - we are giving error msg

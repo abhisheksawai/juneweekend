@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-UK7PKGHG" name="testNGforJenkins.TestOne" tests="4" failures="0" timestamp="4 Aug 2019 07:03:37 GMT" time="0.033" errors="0">
+  <testcase name="loginone" time="0.017" classname="testNGforJenkins.TestOne"/>
+  <testcase name="registartion" time="0.0" classname="testNGforJenkins.TestOne"/>
+  <testcase name="c" time="0.001" classname="testNGforJenkins.VerifyLogin10"/>
+  <testcase name="a" time="0.0" classname="testNGforJenkins.VerifyLogin11"/>
+</testsuite>
